@@ -18,3 +18,8 @@ Loop over each element in array. Find whats left when we devide it from target. 
 #### Result
 Big O time complexity
 O(n) - Linear- Number of operations is directly equal to number of elements. 
+
+
+## Commands
+
+`yarn test` - run tests for both solutions
